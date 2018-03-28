@@ -4,3 +4,10 @@ Jinja2
 Werkzeug
 distribute
 wsgiref
+tensorflow
+keras
+pillow
+h5py
+Plim
+flask_mako
+futures
